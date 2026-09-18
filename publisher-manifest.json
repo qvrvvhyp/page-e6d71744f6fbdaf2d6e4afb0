@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "d2f38cfa6b583b4d24e26b01",
+  "owner": "qvrvvhyp",
+  "repo": "page-e6d71744f6fbdaf2d6e4afb0",
+  "title": "按摩院(Amy)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e6d71744f6fbdaf2d6e4afb0",
+      "a": "按摩院(Amy)",
+      "b": "clash verge官网中文",
+      "entity": "按摩院(Amy)",
+      "brand": "按摩院(Amy)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e714b2feaa14c8bd307e253edef137270a30cda8097b59f15ab85b07b908296e",
+      "content": {
+        "primary_entity": "按摩院(Amy)",
+        "keyword1": "按摩院(Amy)",
+        "keyword2": "clash verge官网中文",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入订阅后即可连接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对照套餐与设备，配置订阅开始使用。",
+          "AI_CLOSING_TITLE": "即刻配置",
+          "AI_DESCRIPTION": "，按摩院(Amy)提供基础版、旗舰版与团队版三档订阅，分别对应每月 100GB、300GB 与 1000GB 流量，设备同时在线的数量从 3 台到 20 台不等，适合个人日常浏览、多设备家庭与小型团队办公。选择时可先确认常用设备的系统与客户端支持情况，再根据月流量预算决定档位，年付方案相比月付可以节省两个月费用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度挑选合适的套餐。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备，满足手机与电脑同时使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版 5 台设备并解锁全部节点流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版 20 台设备，适合小型工作室共用订阅。",
+          "AI_FEATURE_TITLE_1": "设备匹配",
+          "AI_FEATURE_TITLE_2": "流量规划",
+          "AI_FEATURE_TITLE_3": "周期选择",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "按摩院(Amy)提供多档海外加速订阅，覆盖基础个人使用到团队办公场景。按设备数量与月流量选择套餐，再参照客户端文档导入订阅即可连接使用。",
+          "AI_HERO_SUBTITLE": "多档订阅适配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同流量额度",
+          "AI_HIGHLIGHT_2": "设备数从 3 台到 20 台可选",
+          "AI_HIGHLIGHT_3": "年付方案节省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量评估，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与客户端列表，确认常用设备能够正常连接。",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅地址，完成配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "选对套餐轻松连接",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。若家中手机、平板、电脑合计超过 3 台，建议直接选择旗舰版。",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线并对游戏加速做了优化，普通线路节点池在基础版中提供。对延迟敏感或有联机游戏需求的用户优先考虑旗舰版。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览与视频选基础版，4K 流媒体与多设备并行选旗舰版，小团队共享选团队版。",
+          "AI_FAQ_ANSWER_4": "年付价格分别为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付 ¥15、¥35、¥85 更划算，长期使用建议按年支付。",
+          "AI_FAQ_ANSWER_5": "常见客户端包括 Clash Verge、v2rayN、Shadowrocket、Quantumult X、Surge、sing-box 与 NekoBox，可在 Windows、macOS、iOS、Android 及路由器系统上按客户端文档导入订阅使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版在节点线路上有什么区别？",
+          "AI_FAQ_QUESTION_3": "每个月的流量额度怎么选？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "支持哪些客户端和系统？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ff46faff1b6aab748adccda74bd4d54a110af3a9837ea6879fa98b78d11da3ef",
+    "sitemap.xml": "0b51bf3857717b0c1980b2a2890fd545563b8ebebd89c122d3ac1ff645ea770c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "27238c8f9a3e7e176cae8f87aacd264c28d26bf90f7fe1bb04e95371ca228de4"
+}
